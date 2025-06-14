@@ -25,7 +25,7 @@ Bienvenue sur **WaveDevv**, un site vitrine moderne conçu pour présenter des s
 ## 📦 Installation locale
 
 ```bash
-git clone https://github.com/ton-utilisateur/wavedevv.git
+git clone https://github.com/Elpepit0/wavedevv.git
 cd wavedevv
 npm install
 npm run dev
